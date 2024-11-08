@@ -1,0 +1,17 @@
+API DEFINED
+https://api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
+METRICHE
+https://api.openweathermap.org/data/2.5/weather?q=London&units=metric&appid={API key}
+UNI
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+COMPLESSE
+https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
+COMPLETE
+https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
+
+API KEY
+256c8528291d744187d3a295e2f85f00
+TRY
+4b35532de38409d61ed3f606de12f743
+GET REQUEST LONDON
+https://api.openweathermap.org/data/2.5/weather?q=London&appid={256c8528291d744187d3a295e2f85f00}
